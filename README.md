@@ -30,7 +30,7 @@ Com experiência prévia em outras áreas, estou desenvolvendo habilidades técn
 
 ---
 
-_“A melhor forma de prever o futuro é criá-lo.” - Peter Drucker_
+
 
 
 
