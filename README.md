@@ -16,8 +16,10 @@ Sou estudante de **Engenharia da Computação** na **UNIVESP**, atualmente em tr
 ## O que estou aprendendo 🚀
 - Desenvolvimento backend com **C#**
 - Testes manuais e automatizados com **Jira, Postman**
+- Ia's Generativas e Machine Learning.
 - Práticas de **metodologias ágeis** (Scrum, Kanban, etc.)
 - Melhoria contínua e otimização de processos com **Lean Six Sigma**
+
 
 ## Experiência 📊
 Com experiência prévia em outras áreas, estou desenvolvendo habilidades técnicas para atuar no mundo da programação, aplicando **metodologias ágeis** e conceitos de **Lean** para otimizar processos de desenvolvimento.
