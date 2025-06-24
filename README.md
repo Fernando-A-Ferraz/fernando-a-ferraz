@@ -7,7 +7,7 @@
 
 
 
-Sou estudante de **Engenharia da Computação** na **UNIVESP**, atualmente em transição de carreira, com foco em **desenvolvimento backend em C#** e em **metodologias ágeis** de trabalho.
+Sou estudante de **Engenharia da Computação** na **UNIVESP**, atualmente analista de suporte, com foco em **desenvolvimento backend em C#** **Testes de Software** e em **metodologias ágeis** de trabalho.
 
 ## Certificações 🎓
 - **Lean Six Sigma - Yellow Belt**
@@ -15,7 +15,7 @@ Sou estudante de **Engenharia da Computação** na **UNIVESP**, atualmente em tr
 
 ## O que estou aprendendo 🚀
 - Desenvolvimento backend com **C#**
-- Testes manuais e automatizados com **Jira, Postman**
+- Testes manuais e automatizados com **Jira, Postman, Cypress, Playwright**
 - Ia's Generativas e Machine Learning.
 - Práticas de **metodologias ágeis** (Scrum, Kanban, etc.)
 - Melhoria contínua e otimização de processos com **Lean Six Sigma**
